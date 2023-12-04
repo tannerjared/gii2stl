@@ -59,7 +59,7 @@ def main():
     args = parser.parse_args()
 
     if len(args.input) != 2:
-        print("Please provide exactly two input GIfTI surface files created by the CAT12 toolbox.")
+        print("Please provide exactly two input GIfTI surface files created by the CAT12 toolbox or other software.")
         exit()
 
     gii1_filename, gii2_filename = args.input
