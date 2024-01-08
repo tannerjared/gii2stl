@@ -3,4 +3,4 @@ Python script to convert GIfTI surface files to STL. It specifically takes two c
 
 GIfTI files are used by several MRI analysis software packages: https://www.nitrc.org/projects/gifti/
 
-You can use the FreeSurfer tool mris_convert to convert .pial files from freesurfer to GIfTI: https://surfer.nmr.mgh.harvard.edu/fswiki/GIfTI
+You can use the FreeSurfer tool mris_convert to convert .pial files to GIfTI: https://surfer.nmr.mgh.harvard.edu/fswiki/GIfTI
